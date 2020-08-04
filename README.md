@@ -25,6 +25,10 @@ Version 2.1
  - Contoso Project - 2c - Adding Columns.pbix
  - Contoso Project - 2d - Merging Tables.pbix
 
+3.Data Modelling and Relationships
+ - Contoso Project - 3a - Creating Table Relationships
+ - Contoso Project - 3b - Column Settings, Hiding Keys, Creating Hierarchies
+ 
 ## Licesing / Copyright
 MIT License
 
