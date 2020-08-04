@@ -15,7 +15,20 @@ Version 2.1
 
 ## File Descriptions
 1. [Project - Getting Data and Loading - Part 1](https://github.com/ahmet-cigil/PowerBI_Projects/blob/master/1.%20Project%20-%20Getting%20and%20Loading%20Data%20-%20Part%201.pbix)
-  Topics covered:
   - Understand business and analysis of project requirements
   - Connect to data
   - Load data
+
+2. Common Data Transformations with Power Query:  
+  Part 2
+- Remove columns with missing and unimportant columns
+- Renamed column names to user-friendly ones
+- Renamed table names to user-friendly ones
+- Transform by detecting data types
+  Part 3
+- Filter data: Filtered data (date =< 2007)
+- Add new columns and removed old ones: Merge 2 columns into 1 column 
+  ("Manager First Name" and "Manager Last Name" merged into "Manager Full Name)
+- Repetitive words removed ("Contoso" word removed from "Store Name" column)
+- Merging tables ("Product" table is merged by "Product Subcategory Key", "Product" table is merged by "Product Category", removed old columns used to execute merging)
+- Disable loading "Product Category" and "Product Subcategory" as they are merged already to the final "Product Master" created as a star schema instead of snowflake schema.
