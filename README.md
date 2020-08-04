@@ -28,7 +28,7 @@ Version 2.1
 - Renamed table names to user-friendly ones
 - Transform by detecting data types
 
-  [Part 3](https://github.com/ahmet-cigil/PowerBI_Projects/blob/master/1.%20Contoso%20Project%20-%20filter%2C%20add%20and%20remove%20columns%2C%20merge%20tables%20-%20Part%203.pbix)
+ [Part 3](https://github.com/ahmet-cigil/PowerBI_Projects/blob/master/1.%20Contoso%20Project%20-%20filter%2C%20add%20and%20remove%20columns%2C%20merge%20tables%20-%20Part%203.pbix)
   
 - Filter data: Filtered data (date =< 2007)
 - Add new columns and removed old ones: Merge 2 columns into 1 column 
