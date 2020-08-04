@@ -25,11 +25,16 @@ Version 2.1
  - Contoso Project - 2c - Adding Columns.pbix
  - Contoso Project - 2d - Merging Tables.pbix
 
-3.Data Modelling and Relationships
+3. Data Modelling and Relationships
  - Contoso Project - 3a - Creating Table Relationships
  - Contoso Project - 3b - Column Settings, Hiding Keys, Creating Hierarchies
+
+4. Data Analytics with DAX
+ - Contoso Project - 4a - Creating Basic DAX Calculations.pbix
+ - Contoso Project - 4b - Creating a DAX Measures Table.pbix
+ - Contoso Project - 4c - DAX Quick Measures Tool.pbix
+ 
  
 ## Licesing / Copyright
 MIT License
-
 Copyright (c) 2018 Packtpub
