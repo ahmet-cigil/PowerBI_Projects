@@ -25,3 +25,7 @@ Version 2.1
  - Contoso Project - 2c - Adding Columns.pbix
  - Contoso Project - 2d - Merging Tables.pbix
 
+## Licesing / Copyright
+MIT License
+
+Copyright (c) 2018 Packtpub
