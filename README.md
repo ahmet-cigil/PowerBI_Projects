@@ -34,7 +34,15 @@ Version 2.1
  - Contoso Project - 4b - Creating a DAX Measures Table.pbix
  - Contoso Project - 4c - DAX Quick Measures Tool.pbix
  
- 
+5. Data Visualization and Reporting
+- Contoso Project - 5a - Creating Visualizations Matrix Table
+- Contoso Project - 5b - Creating Visualizations Running Total Chart
+- Consoto project - 5c - Column and Line Chart (Year-Over-Year Profits %)
+- Contoso Project - 5d - Conditional Formatting & Waterfall Charts
+- Contoso Projest - 5e - Title, Logo, & Cards
+- Contoso Project - 5f - Slicers & Filter Settings
+- Consoto Project - 5g - Formatting & Report Design
+
 ## Licesing / Copyright
 MIT License
 Copyright (c) 2018 Packtpub
