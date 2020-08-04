@@ -14,7 +14,9 @@ Details
 Version 2.1
 
 ## File Descriptions
-1. [Project - Getting Data and Loading - Part 1](https://github.com/ahmet-cigil/PowerBI_Projects/blob/master/1.%20Contoso%20Project%20-%20getting%20and%20loading%20Data%20-%20Part%201.pbix)
+1. Project - Getting Data and Loading:
+
+[Part 1](https://github.com/ahmet-cigil/PowerBI_Projects/blob/master/1.%20Contoso%20Project%20-%20getting%20and%20loading%20Data%20-%20Part%201.pbix)
   - Understand business and analysis of project requirements
   - Connect to data
   - Load data
