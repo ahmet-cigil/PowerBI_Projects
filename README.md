@@ -1,6 +1,6 @@
 # PowerBI Projects
 
-This project is meant to show my skills in Power BI.
+This project is meant to show my skills in Power BI as a result of following the online course [Learning Microsoft Power BI by Packt](https://www.packtpub.com/eu/big-data-and-business-intelligence/learning-microsoft-power-bi-video)
 
 ## Installation / Software Needed
 Power BI 2.83.*
@@ -15,9 +15,13 @@ Version 2.1
 
 ## File Descriptions
 
-1. Contoso Project - 1a - Importing Data.pbix
-1. Contoso Project - 1b - Connecting to a Folder.pbix
-1. Contoso Project - 2a - Common Data Transformations.pbix
-1. Contoso Project - 2b - Intelligent Data Filters.pbix
-1. Contoso Project - 2c - Adding Columns.pbix
-1. Contoso Project - 2d - Merging Tables.pbix
+1. Part. Analysis of Business Requirements
+ - Contoso Project - 1a - Importing Data.pbix
+ - Contoso Project - 1b - Connecting to a Folder.pbix
+
+2. Data Transformations
+ - Contoso Project - 2a - Common Data Transformations.pbix
+ - Contoso Project - 2b - Intelligent Data Filters.pbix
+ - Contoso Project - 2c - Adding Columns.pbix
+ - Contoso Project - 2d - Merging Tables.pbix
+
