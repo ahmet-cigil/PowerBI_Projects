@@ -14,7 +14,7 @@ Details
 Version 2.1
 
 ## File Descriptions
-1. Project - Getting Data and Loading - Part 1:
+1. [Project - Getting Data and Loading - Part 1](https://github.com/ahmet-cigil/PowerBI_Projects/blob/master/1.%20Project%20-%20Getting%20and%20Loading%20Data%20-%20Part%201.pbix)
   Topics covered:
   - Understand business and analysis of project requirements
   - Connect to data
